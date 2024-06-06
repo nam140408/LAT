@@ -1,5 +1,0 @@
--Tập hợp các mô hình mở rộng tốt nhất
--Kết hợp trong quá trình đánh
-	+ Đánh tới đâu hình dung mô hình sẽ đánh tiếp đến đó
-	+ Tìm cách để áp dụng mô hình đó
-	+(Mở rộng) tìm cách đánh giá mô hình tốt nhất với cách đánh của 1 người chơi lâu dài	

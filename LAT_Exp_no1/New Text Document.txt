@@ -1,3 +1,0 @@
-Tranning: với mỗi ô sẽ tính tỉ lệ phần trăm thắng khi đánh vào ô đó.
-+ Với mỗi dữ liệu data sẽ có 1 bot sẽ phân ra các dạng giống nhau trong các dữ liệu trước đó.
-+ Và tại mỗi ô của mỗi dạng sẽ tổng hợp các tỉ lệ % thắng trong các ô đó trong từng trường hợp.

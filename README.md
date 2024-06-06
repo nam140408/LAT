@@ -1,2 +1,0 @@
-# LAT
-Laboratory About Thinking
