@@ -6,7 +6,7 @@ string who_win(vector<char> *Board_game, vector<double> *Point_board){
     {
         for (int j = 1; j <= 100; j++)
         {
-            if( Point_board[i][j] == (double)5 ) return "The winner is " + Board_game[i][j];
+            if( Point_board[i][j] >= (double)5 ) return "The winner is " + Board_game[i][j];
         }
     }
     return "Nobody wins";
